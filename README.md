@@ -102,7 +102,9 @@ The dataset is available on the **Code Basis** platform, consolidating multiple 
 ## 📊 4. ANALYZE – Power BI Data Modeling & Measures
 
 ### 🧠 Data Modeling
-**New Columns Created:**
+<img width="1012" height="515" alt="Screenshot 2025-11-05 233013" src="https://github.com/user-attachments/assets/82f811df-a121-496c-80d0-aef717b3b537" />
+
+### **New Columns Created:**
 
 -- dim_customer table
 
